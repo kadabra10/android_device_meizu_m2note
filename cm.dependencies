@@ -1,0 +1,8 @@
+[
+    {
+        "remote": "github",
+        "repository": "kadabra10/android_kernel_meizu_m2note",
+        "revision": "cm-12.1",
+        "target_path": "kernel/meizu/m2note"
+    }
+]
